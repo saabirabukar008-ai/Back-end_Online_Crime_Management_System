@@ -1,0 +1,12 @@
+# Node / React js
+node_modules/
+build/
+dist/
+npm-debug.log*
+
+# .NET / ASP.NET
+bin/
+obj/
+*.user
+appsettings.Development.json
+*.pdb
