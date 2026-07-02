@@ -1,6 +1,0 @@
-@OnlineCrimeAPI_HostAddress = http://localhost:5168
-
-GET {{OnlineCrimeAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
